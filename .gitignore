@@ -1,0 +1,6 @@
+*.zip
+*.mp4
+/tests/*
+*.pyc
+.DS_Store
+/.claude
